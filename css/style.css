@@ -1,0 +1,31 @@
+.principal{
+    border: 3px solid black;
+    /*  */padding: 15px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+p{ width: 400px;}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.secciones{
+    border: 2px solid green;
+}
+a{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+.footer{
+    display: flex; 
+    }
+.imagen{
+    text-align: center;
+    margin-top: 35px;
+    width: 2400px;
+}    
